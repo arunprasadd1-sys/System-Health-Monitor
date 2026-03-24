@@ -1,3 +1,2 @@
-python logger.py
-Monitoring stopped
+Timestamp,CPU Usage %,RAM Usage %
 
